@@ -1,8 +1,5 @@
 # Lyu-KJ
 "Hi, I'm Kaijing! 🎓 University of Ibaraki  International &amp; Regional Co-creation 2nd year. 🎯 Aspiring Data Scientist / AI Engineer. 🛠️ Currently focusing on Python, Machine Learning, and Data Visualization.
-# Hi 👋, I'm LYU
-
-### A passionate Python developer
 
 - 🌱 I'm currently learning **machine learning,typescript**
 
