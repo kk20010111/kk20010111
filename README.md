@@ -1,5 +1,5 @@
 # Lyu-KJ
-"Hi, I'm Kaijing! 🎓 University of Ibaraki  International &amp; Regional Co-creation 2nd year. 🎯 Aspiring Data Scientist / AI Engineer. 🛠️ Currently focusing on Python, Machine Learning, and Data Visualization.I'm currently learning **machine learning,typescript**
+"Hi, I'm Kaijing! 🎓 University of Ibaraki  International &amp; Regional Co-creation 3rd year. 🎯 Aspiring Data Scientist / AI Engineer. 🛠️ Currently focusing on Python, Machine Learning, and Data Visualization.I'm currently learning **machine learning,typescript**
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
